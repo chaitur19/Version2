@@ -6,4 +6,5 @@ google-auth
 google-auth-httplib2
 protobuf
 plotly
+wordcloud
 click==8
